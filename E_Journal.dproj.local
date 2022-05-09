@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.943,C:\2 семестр\ОАиП\Курсач\Unit1.pas=C:\2 семестр\ОАиП\Курсач\UnitAddClass.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.322,C:\2 семестр\ОАиП\Курсач\Unit1.pas=C:\2 семестр\ОАиП\Курсач\UnitEditClass.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.811,C:\2 семестр\ОАиП\Курсач\Unit1.pas=C:\2 семестр\ОАиП\Курсач\UnitEditJournal.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.223,C:\2 семестр\ОАиП\Курсач\Unit1.pas=C:\2 семестр\ОАиП\Курсач\UnitAddLesson.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.574,C:\2 семестр\ОАиП\Курсач\Unit1.pas=C:\2 семестр\ОАиП\Курсач\UnitViewJournal.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.687,=C:\2 семестр\ОАиП\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.119,=C:\2 семестр\ОАиП\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.412,=C:\2 семестр\ОАиП\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.334,=C:\2 семестр\ОАиП\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.816,C:\2 семестр\ОАиП\Курсач\Unit1.pas=C:\2 семестр\ОАиП\Курсач\UnitChooseClass.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.223,C:\2 семестр\ОАиП\Курсач\Unit1.dfm=C:\2 семестр\ОАиП\Курсач\UnitAddLesson.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.840,C:\2 семестр\ОАиП\Курсач\Unit1.dfm=C:\2 семестр\ОАиП\Курсач\UnitChooseJournal.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.574,C:\2 семестр\ОАиП\Курсач\Unit1.dfm=C:\2 семестр\ОАиП\Курсач\UnitViewJournal.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.322,C:\2 семестр\ОАиП\Курсач\Unit1.dfm=C:\2 семестр\ОАиП\Курсач\UnitEditClass.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.943,C:\2 семестр\ОАиП\Курсач\Unit1.dfm=C:\2 семестр\ОАиП\Курсач\UnitAddClass.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.390,C:\2 семестр\ОАиП\Курсач\UnitClass.dfm=C:\2 семестр\ОАиП\Курсач\UnitAddClass.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.814,C:\2 семестр\ОАиП\Курсач\UnitLesson.pas=C:\2 семестр\ОАиП\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.128,C:\Users\Евгений\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\2 семестр\ОАиП\Курсач\E_Journal.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.816,C:\2 семестр\ОАиП\Курсач\Unit1.dfm=C:\2 семестр\ОАиП\Курсач\UnitChooseClass.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.811,C:\2 семестр\ОАиП\Курсач\Unit1.dfm=C:\2 семестр\ОАиП\Курсач\UnitEditJournal.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.840,C:\2 семестр\ОАиП\Курсач\Unit1.pas=C:\2 семестр\ОАиП\Курсач\UnitChooseJournal.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.832,=C:\Users\Евгений\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.694,=C:\Users\Евгений\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.247,=C:\Users\Евгений\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.773,C:\Users\Евгений\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\2 семестр\ОАиП\Курсач\UnitMenu.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.533,C:\2 семестр\ОАиП\Курсач\UnitAddClass.pas=C:\2 семестр\ОАиП\Курсач\UnitClass.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.496,C:\2 семестр\ОАиП\Курсач\UnitStudent.pas=C:\2 семестр\ОАиП\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.390,C:\2 семестр\ОАиП\Курсач\UnitClass.pas=C:\2 семестр\ОАиП\Курсач\UnitAddClass.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.773,C:\Users\Евгений\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\2 семестр\ОАиП\Курсач\UnitMenu.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.469,C:\2 семестр\ОАиП\Курсач\UnitEditClass.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.529,C:\2 семестр\ОАиП\Курсач\UnitJournal.pas=C:\2 семестр\ОАиП\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.558,=C:\2 семестр\ОАиП\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.422,=C:\2 семестр\ОАиП\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.160,=C:\2 семестр\ОАиП\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.733,=C:\2 семестр\ОАиП\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.894,=C:\2 семестр\ОАиП\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.533,C:\2 семестр\ОАиП\Курсач\UnitAddClass.dfm=C:\2 семестр\ОАиП\Курсач\UnitClass.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.758,C:\2 семестр\ОАиП\Курсач\UnitNote.pas=C:\2 семестр\ОАиП\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.105,C:\2 семестр\ОАиП\Курсач\UnitViewJournal.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.113,=C:\2 семестр\ОАиП\Курсач\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.779,=C:\2 семестр\ОАиП\Курсач\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
